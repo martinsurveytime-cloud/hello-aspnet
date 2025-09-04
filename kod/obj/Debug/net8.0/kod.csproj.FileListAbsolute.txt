@@ -1,0 +1,14 @@
+C:\Users\RindošMartin\OneDrive - Stredná priemyselná škola elektrotechnická\apf\kod\kod\bin\Debug\net8.0\kod.exe
+C:\Users\RindošMartin\OneDrive - Stredná priemyselná škola elektrotechnická\apf\kod\kod\bin\Debug\net8.0\kod.deps.json
+C:\Users\RindošMartin\OneDrive - Stredná priemyselná škola elektrotechnická\apf\kod\kod\bin\Debug\net8.0\kod.runtimeconfig.json
+C:\Users\RindošMartin\OneDrive - Stredná priemyselná škola elektrotechnická\apf\kod\kod\bin\Debug\net8.0\kod.dll
+C:\Users\RindošMartin\OneDrive - Stredná priemyselná škola elektrotechnická\apf\kod\kod\bin\Debug\net8.0\kod.pdb
+C:\Users\RindošMartin\OneDrive - Stredná priemyselná škola elektrotechnická\apf\kod\kod\obj\Debug\net8.0\kod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RindošMartin\OneDrive - Stredná priemyselná škola elektrotechnická\apf\kod\kod\obj\Debug\net8.0\kod.AssemblyInfoInputs.cache
+C:\Users\RindošMartin\OneDrive - Stredná priemyselná škola elektrotechnická\apf\kod\kod\obj\Debug\net8.0\kod.AssemblyInfo.cs
+C:\Users\RindošMartin\OneDrive - Stredná priemyselná škola elektrotechnická\apf\kod\kod\obj\Debug\net8.0\kod.csproj.CoreCompileInputs.cache
+C:\Users\RindošMartin\OneDrive - Stredná priemyselná škola elektrotechnická\apf\kod\kod\obj\Debug\net8.0\kod.dll
+C:\Users\RindošMartin\OneDrive - Stredná priemyselná škola elektrotechnická\apf\kod\kod\obj\Debug\net8.0\refint\kod.dll
+C:\Users\RindošMartin\OneDrive - Stredná priemyselná škola elektrotechnická\apf\kod\kod\obj\Debug\net8.0\kod.pdb
+C:\Users\RindošMartin\OneDrive - Stredná priemyselná škola elektrotechnická\apf\kod\kod\obj\Debug\net8.0\kod.genruntimeconfig.cache
+C:\Users\RindošMartin\OneDrive - Stredná priemyselná škola elektrotechnická\apf\kod\kod\obj\Debug\net8.0\ref\kod.dll
